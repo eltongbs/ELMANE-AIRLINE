@@ -15,30 +15,30 @@
         header {
             background-color: #2A4D3D;
             color: white;
-            padding: 15px;
+            padding: 15;
             text-align: center;
         }
         nav {
             display: flex;
             justify-content: center;
             background-color: #E2A23B;
-            padding: 10px;
+            padding: 10;
         }
         nav a {
             color: white;
             text-decoration: none;
-            margin: 0 15px;
+            margin: 0 15;
             font-weight: bold;
         }
         .container {
             text-align: center;
-            padding: 20px;
+            padding: 20;
         }
         footer {
             background-color: #222222;
             color: white;
             text-align: center;
-            padding: 10px;
+            padding: 10;
             position: fixed;
             bottom: 0;
             width: 100%;
